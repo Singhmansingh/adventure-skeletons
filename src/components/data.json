@@ -1,0 +1,34 @@
+{
+    "ancestry":[
+        {"name":"Orc", "bonus": "+1 to hitting and shouting"},
+        {"name":"Elf", "bonus": "+1 to speaking and moving"},
+        {"name":"Dwarf", "bonus": "+1 hit box to chest and head"},
+        {"name":"Goblin", "bonus": "+1 to sneaking and running away"},
+        {"name":"Human", "bonus": "Detatch a body part to re-roll a skill"},
+        {"name":"Skeleton", "bonus": "+1 to skeleton knowledge and culture"}
+    ],
+    "equiptment":[
+        {"name":"Leather Armour", "bonus": "+1 hit box on random slot", "img":"leather.png"},
+        {"name":"Metal Armour", "bonus": "+2 hit box on random slot", "img":"metal.png"},
+        {"name":"Scimitar", "bonus": "One-handed, D6 damage", "img":"scimitar.png"},
+        {"name":"Dagger", "bonus": "One-handded, D4 damage, D8 from hiding", "img":"dagger.png"},
+        {"name":"Greataxe", "bonus": "Two-handed, D8 damage, D12 versus the head", "img":"greataxe.png"},
+        {"name":"Bow and Arrows", "bonus": "Two-handed ranged weapon, D6 damage", "img":"bowandarrow.png"}
+    ],
+    "treasure":[
+        {"name":"Bag of Gold and Gems", "bonus": "Exchange for goods and services", "img":"gold.png"},
+        {"name":"Magic Scimitar", "bonus": "+1 to hit and damage", "img":"magicscimitar.png"},
+        {"name":"Magic Armour", "bonus": "+2 hit box on random slot, heals its hits at the start of every fight", "img":"magicarmour.png"},
+        {"name":"Invisibility Cloak", "bonus": "Hide in plain sight, until you make noise or attack", "img":"cloak.png"},
+        {"name":"Potion of Repair", "bonus": "Clear all damage, one use only", "img":"potion.png"},
+        {"name":"Hat of Subterfuge", "bonus": "+2 to attempts at disguising yourself", "img":"hat.png"}
+    ],
+    "humanDungeon":[
+        "Vibrant farming hamlet",
+        "Busy crossroads, with an inn and a river",
+        "Monastery and library",
+        "Mages' college",
+        "Shady river port",
+        "Seaside resort"
+    ]
+}
